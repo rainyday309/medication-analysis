@@ -1,0 +1,7 @@
+.Rproj.user
+*.Rproj
+*.csv
+*.xlsx
+*.jnl
+*.sav
+.Rhistory
